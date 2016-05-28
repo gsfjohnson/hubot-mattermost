@@ -5,7 +5,7 @@
   "author": "gsfjohnson@gmail.com",
   "description": "Helpful Hubot",
   "dependencies": {
-    "hubot-mattermost": "~1.0.7",
+    "hubot-matteruser": "^3.0.1",
     "hubot-help": "~0.2.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-pugme": "~0.1.0",
