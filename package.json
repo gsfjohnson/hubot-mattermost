@@ -1,23 +1,26 @@
 {
   "name": "hubot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "gsfjohnson@gmail.com",
   "description": "Helpful Hubot",
   "dependencies": {
+    "hubot": "~2.19.0",
     "hubot-matteruser": "^3.0.1",
-    "hubot-help": "~0.2.0",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-pugme": "~0.1.0",
-    "hubot-shipit": "~0.2.0",
+    "hubot-help": "git://github.com/gsfjohnson/hubot-help#master",
+    "hubot-diagnostics": "git://github.com/gsfjohnson/hubot-diagnostics#master",
+    "hubot-auth": "git://github.com/gsfjohnson/hubot-auth#master",
+    "hubot-github": "git://github.com/gsfjohnson/hubot-github#master",
+    "hubot-graphme": "git://github.com/gsfjohnson/hubot-graphme#master",
+    "hubot-pugme": "git://github.com/gsfjohnson/hubot-pugme#master",
+    "hubot-shipit": "git://github.com/gsfjohnson/hubot-shipit#master",
+    "hubot-calculator": "git://github.com/gsfjohnson/hubot-calculator#master",
+    "hubot-soon": "git://github.com/gsfjohnson/hubot-soon#master",
+    "hubot-tell": "git://github.com/gsfjohnson/hubot-tell#master",
     "hubot-rules": "~0.1.1",
-    "hubot-google-images": "~0.2.6",
-    "hubot-google-translate": "~0.2.0",
-    "hubot-heroku-keepalive": "~1.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "~2.17.2",
-    "hubot": "~2.19.0",
-    "hubot-maps": "0.0.2"
+    "hubot-tell-a-joke": "0.0.2"
   },
   "engines": {
     "node": "0.10.x"

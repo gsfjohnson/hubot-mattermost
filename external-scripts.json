@@ -1,7 +1,13 @@
 [
-  "hubot-diagnostics",
-  "hubot-help",
-  "hubot-pugme",
-  "hubot-rules",
-  "hubot-shipit"
+  "hubot-diagnostics"
+  ,"hubot-help"
+  ,"hubot-pugme"
+  ,"hubot-rules"
+  ,"hubot-shipit"
+  ,"hubot-graphme"
+  ,"hubot-auth"
+  ,"hubot-tell-a-joke"
+  ,"hubot-calculator"
+  ,"hubot-soon"
+  ,"hubot-tell"
 ]
