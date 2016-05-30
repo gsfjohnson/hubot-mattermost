@@ -11,5 +11,6 @@
   ,"hubot-soon"
   ,"hubot-tell"
   ,"hubot-tf"
+  ,"hubot-aws-s3"
   ,"hubot-redis-brain"
 ]
