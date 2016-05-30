@@ -10,4 +10,6 @@
   ,"hubot-calculator"
   ,"hubot-soon"
   ,"hubot-tell"
+  ,"hubot-tf"
+  ,"hubot-redis-brain"
 ]
