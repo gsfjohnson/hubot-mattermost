@@ -12,5 +12,6 @@
   ,"hubot-tell"
   ,"hubot-tf"
   ,"hubot-aws-s3"
+  ,"hubot-vault"
   ,"hubot-redis-brain"
 ]
